@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/6/bourbon/trunk/bourbon/templates/bourbonapp
+END
+development.ini_tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/6/bourbon/trunk/bourbon/templates/bourbonapp/development.ini_tmpl
+END
+setup.py_tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/6/bourbon/trunk/bourbon/templates/bourbonapp/setup.py_tmpl
+END

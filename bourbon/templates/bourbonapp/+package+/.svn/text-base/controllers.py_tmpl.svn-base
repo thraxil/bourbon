@@ -1,0 +1,16 @@
+import selector
+from ${package}.model import *
+from bourbon import Resource
+
+# define your controller classes, subclassing Resource
+#
+#    class FooCollection(Resource):
+#        domain_class = Foo
+#        id_column    = Category.c.name
+
+urls = selector.Selector()
+
+# url mappings:
+#
+#     urls.add('/[{id:word}][;{noun}]',                   _ANY_=FooCollection())
+

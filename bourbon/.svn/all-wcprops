@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/6/bourbon/trunk/bourbon
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/6/bourbon/trunk/bourbon/__init__.py
+END
+app.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/6/bourbon/trunk/bourbon/app.py
+END
+wsgicollection.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/6/bourbon/trunk/bourbon/wsgicollection.py
+END
+resource.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/6/bourbon/trunk/bourbon/resource.py
+END

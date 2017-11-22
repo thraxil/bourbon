@@ -1,0 +1,16 @@
+from setuptools import setup, find_packages
+
+setup(
+    name="${package}",
+    version="0.1",
+    install_requires = [
+    "bourbon"
+    ],
+    zip_safe=True,
+    packages=find_packages(),
+    keywords = [     ],
+    entry_points="""
+    [paste.app_factory]
+    main=${package}.wsgiapp
+    """
+    )

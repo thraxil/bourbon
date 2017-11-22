@@ -1,0 +1,11 @@
+from ${package}.controllers import urls
+from sqlalchemy import create_engine
+from bourbon.app import BourbonApp
+
+def app_factory(global_config, **local_conf):
+    engine = create_engine(local_conf.get("database","sqlite:///:memory:"))
+    engine.echo = True
+    config = global_config
+    config.update(local_conf)
+    app = BourbonApp(urls,engine,config)
+    return app

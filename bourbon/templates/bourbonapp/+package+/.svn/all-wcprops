@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/6/bourbon/trunk/bourbon/templates/bourbonapp/+package+
+END
+controllers.py_tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/6/bourbon/trunk/bourbon/templates/bourbonapp/+package+/controllers.py_tmpl
+END
+wsgiapp.py_tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/6/bourbon/trunk/bourbon/templates/bourbonapp/+package+/wsgiapp.py_tmpl
+END
+__init__.py_tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/6/bourbon/trunk/bourbon/templates/bourbonapp/+package+/__init__.py_tmpl
+END
+model.py_tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/6/bourbon/trunk/bourbon/templates/bourbonapp/+package+/model.py_tmpl
+END
