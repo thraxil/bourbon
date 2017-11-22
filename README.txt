@@ -1,3 +1,10 @@
+Note: this is an archive of an old project. I originally wrote it back
+in about 2007-2008. It was (IMO) good code for the time, but probably
+isn't something that you want to use now. I'm just posting it up here
+for posterity.
+
+It was originally documented here: https://code.google.com/archive/p/microapps/wikis/Bourbon.wiki
+
 Bourbon
 =======
 
